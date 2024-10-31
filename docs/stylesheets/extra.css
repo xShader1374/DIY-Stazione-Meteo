@@ -1,8 +1,8 @@
 [data-md-color-scheme="slate"] {
-    --md-primary-fg-color: #1976D2;
-    --md-primary-fg-color--light: #64B5F6;
-    --md-primary-fg-color--dark: #0D47A1;
-    --md-accent-fg-color: #03A9F4;
+    --md-primary-fg-color: #009688;
+    --md-primary-fg-color--light: #4DB6AC;
+    --md-primary-fg-color--dark: #00796B;
+    --md-accent-fg-color: #00BCD4;
   }
   
   .md-typeset h1 {
@@ -64,6 +64,12 @@
     border-radius: 8px;
   }
   
+  .gslide-image img {
+    background: #0d0d0db2 !important;
+    
+    backdrop-filter: blur(4px);
+  }
+
   .animate-pulse {
     animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
   }
