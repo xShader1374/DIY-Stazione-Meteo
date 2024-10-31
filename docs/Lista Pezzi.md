@@ -2,19 +2,19 @@
 
 Questa è la lista pezzi, in base al budget:
 
-- [Budget 1 (30-50€)](#budget-1-30-50)
-- [Budget 2 (60-75€)](#budget-2-60-75)
-- [Budget 3 (80-90€)](#budget-3-80-90)
-- [Budget 4 (100-125€)](#budget-4-100-125)
-- [Budget 5 (150-200€)](#budget-5-150-200)
+- [Budget Starter (30-50€)](#budget-starter-30-50)
+- [Budget Intermedio (60-75€)](#budget-intermedio-60-75)
+- [Budget Alto (80-90€)](#budget-alto-80-90)
+- [Budget Premium (100-125€)](#budget-premium-100-125)
+- [Budget Avanzato (150-200€)](#budget-avanzato-150-200)
 
-## **Budget 1 (30-50€)**
+## **Budget Starter (30-50€)**
 
 In questa fascia di prezzo troviamo componenti entry-level ma affidabili:
 
-### Pezzo 1
+### Raspberry PI 3
 
-![Pezzo 1](/images/pezzo-1.jpg)
+![Pezzo 1](/images/RASPBERRY_PI_3B_PLUS.png)
 
 - Caratteristica 1
 - Caratteristica 2
@@ -30,7 +30,7 @@ In questa fascia di prezzo troviamo componenti entry-level ma affidabili:
 
 **Totale configurazione**: 49.98€
 
-## **Budget 2 (60-75€)**
+## **Budget Intermedio (60-75€)**
 
 Per questa fascia di prezzo possiamo permetterci:
 
@@ -53,7 +53,7 @@ Per questa fascia di prezzo possiamo permetterci:
 
 **Totale configurazione**: 70€
 
-## **Budget 3 (80-90€)**
+## **Budget Alto (80-90€)**
 
 Con questo budget possiamo considerare:
 
@@ -73,7 +73,7 @@ Con questo budget possiamo considerare:
 - Pezzo 6 (89.99€)
 - Pezzo 7 (84.99€)
 
-## **Budget 4 (100-125€)**
+## **Budget Premium (100-125€)**
 
 Questa fascia permette configurazioni più avanzate:
 
@@ -96,7 +96,7 @@ Questa fascia permette configurazioni più avanzate:
 | Pezzo 9 | Caratteristica 2 |
 | Pezzo 10 | Caratteristica 3 |
 
-## **Budget 5 (150-200€)**
+## **Budget Avanzato (150-200€)**
 
 La fascia premium include:
 

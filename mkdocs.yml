@@ -4,10 +4,15 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - toc.follow
     - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
@@ -16,36 +21,47 @@ theme:
     - navigation.tracking
     - navigation.instant
     - navigation.expand
-    - content.code.select
     - content.tooltips
-    - content.action.edit
-    - content.action.view
-    - search.share
-    - search.highlight.typed
+    - content.code.annotation
+    - content.code.copy
+    - content.code.select
+    - header.autohide
+
 
   language: it
+  
+  font:
+    text: Roboto
+    code: Roboto Mono
+    
+  icon:
+    repo: fontawesome/brands/github-alt
+    
   palette:
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: light blue
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Passa alla modalità chiara
-      primary: teal
-      accent: lime
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: light blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Passa alla modalità scura
-      primary: teal
-      accent: purple
 
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/xShader1374/DIY-Stazione-Meteo
-
-copyright: |
-  &copy; 2024-2024 <a href="https://github.com/xShader1374/DIY-Stazione-Meteo" target="_blank" rel="noopener">xShader1374, etome, giovi_ama, JLouisS, dspreafico, Dada</a>
-
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized:
+      type: datetime
+      locale: it
+  - glightbox:
+      effect: zoom
+      
 markdown_extensions:
   - abbr
   - attr_list
@@ -58,6 +74,24 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/xShader1374/DIY-Stazione-Meteo
 
 repo_url: https://github.com/xShader1374/DIY-Stazione-Meteo
 repo_name: xShader1374/DIY-Stazione-Meteo
