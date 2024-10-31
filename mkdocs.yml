@@ -11,6 +11,18 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.footer
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.instant
+    - navigation.expand
+    - content.code.select
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+    - search.share
+    - search.highlight.typed
+
   language: it
   palette:
     - scheme: slate
@@ -33,3 +45,20 @@ extra:
 
 copyright: |
   &copy; 2024-2024 <a href="https://github.com/xShader1374/DIY-Stazione-Meteo" target="_blank" rel="noopener">xShader1374, etome, giovi_ama, JLouisS, dspreafico, Dada</a>
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+repo_url: https://github.com/xShader1374/DIY-Stazione-Meteo
+repo_name: xShader1374/DIY-Stazione-Meteo
+edit_uri: edit/main/docs/
