@@ -1,6 +1,8 @@
 # Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Idea Finale:
+
+Poter rendere più agibile per tutti avere e creare con le proprie mani una stazione meteo smart, contribuendo allo stesso tempo all'archiviazione e rilevazione dei dati metereologici per aiutare calcoli, stime ecc. a basso costo, o anche in modo professionale, in base al budget, con codici, web app e programmi già pronti per l'uso, infatti, basterà semplicemente seguire la Guida in base a ciò che si vuol fare e il gioco è fatto!
 
 ## Commands
 
