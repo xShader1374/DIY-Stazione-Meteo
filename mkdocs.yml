@@ -25,3 +25,11 @@ theme:
         name: Passa alla modalità scura
       primary: teal
       accent: purple
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/xShader1374/DIY-Stazione-Meteo
+
+copyright: |
+  &copy; 2024-2024 <a href="https://github.com/xShader1374/DIY-Stazione-Meteo" target="_blank" rel="noopener">xShader1374, etome, giovi_ama, JLouisS, dspreafico, Dada</a>
