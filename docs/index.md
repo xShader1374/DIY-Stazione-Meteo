@@ -1,19 +1,95 @@
-# Home
+# 🏠 DIY Stazione Meteo
 
-## Idea Finale:
+## 🎯 La Nostra Missione
 
-Poter rendere più agibile per tutti avere e creare con le proprie mani una stazione meteo smart, contribuendo allo stesso tempo all'archiviazione e rilevazione dei dati metereologici per aiutare calcoli, stime ecc. a basso costo, o anche in modo professionale, in base al budget, con codici, web app e programmi già pronti per l'uso, infatti, basterà semplicemente seguire la Guida in base a ciò che si vuol fare e il gioco è fatto!
+!!! abstract "Democratizzare la Meteorologia"
+    Rendere accessibile a tutti la creazione di una stazione meteo smart, combinando tecnologia open-source 
+    e componenti economici per costruire sistemi di monitoraggio meteorologico di qualità professionale.
 
-## Commands
+## 🌟 Caratteristiche Principali
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<div class="grid cards" markdown>
 
-## Project layout
+-   🛠️ **Facile da Costruire**
+    
+    - Guide passo-passo dettagliate
+    - Componenti facilmente reperibili
+    - Supporto community attivo
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+-   💰 **Economica**
+    
+    - Diverse fasce di prezzo
+    - Ottimo rapporto qualità/prezzo
+    - Espandibile nel tempo
+
+-   🔧 **Personalizzabile**
+    
+    - Moduli aggiuntivi
+    - Software open-source
+    - Design modulare
+
+-   📊 **Professionale**
+    
+    - Dati accurati
+    - Integrazione con servizi meteo
+    - Dashboard personalizzabile
+
+</div>
+
+## 🚀 Come Iniziare
+
+1. **Scegli il tuo Budget**
+    - Consulta la [Lista Pezzi](/Lista%20Pezzi) per trovare la configurazione ideale
+    - Da 30€ a 200€ per ogni esigenza
+
+2. **Segui la Guida**
+    - Istruzioni dettagliate per il montaggio
+    - Configurazione software guidata
+    - Video tutorial disponibili
+
+3. **Connetti e Monitora**
+    - Dashboard web personalizzabile
+    - App mobile dedicata
+    - Integrazione con servizi meteo
+
+## 🤝 Contribuisci al Progetto
+
+!!! tip "Unisciti alla Community"
+    Il progetto è open-source e accoglie contributi di ogni tipo:
+    
+    - 💻 Codice
+    - 📝 Documentazione
+    - 🎨 Design
+    - 🌍 Traduzioni
+    - 🐛 Bug report
+
+## 📚 Documentazione
+
+    Beh, questa è la documentazione
+
+## 📱 App e Integrazioni
+
+<div class="grid cards" markdown>
+
+-   🏠 **Home Assistant**
+    
+    Integrazione completa con la tua smart home
+    
+    [Configura →](){ .md-button }
+
+-   📊 **Weather Underground**
+    
+    Condividi i tuoi dati con la community
+    
+    [Connetti →](){ .md-button }
+
+-   🌐 **API Custom**
+    
+    Accedi ai dati tramite REST API
+    
+    [Documenti →](){ .md-button }
+
+</div>
+
+!!! info "Hai bisogno di aiuto?"
+    Unisciti al nostro [Forum](https://github.com/xShader1374/DIY-Stazione-Meteo/discussions) o consulta la [FAQ](/faq)

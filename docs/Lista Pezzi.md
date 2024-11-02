@@ -1,105 +1,221 @@
-# Lista Pezzi
+# 🛍️ Lista Pezzi
 
-Questa è la lista pezzi, in base al budget:
+!!! tip "Scegli il tuo Budget"
+    Abbiamo selezionato i migliori componenti per ogni fascia di prezzo, garantendo il miglior rapporto qualità/prezzo.
 
-- [Budget Starter (30-50€)](#budget-starter-30-50)
-- [Budget Intermedio (60-75€)](#budget-intermedio-60-75)
-- [Budget Alto (80-90€)](#budget-alto-80-90)
-- [Budget Premium (100-125€)](#budget-premium-100-125)
-- [Budget Avanzato (150-200€)](#budget-avanzato-150-200)
+## 🏷️ Fasce di Prezzo
 
-## **Budget Starter (30-50€)**
+=== "🌱 Starter (30-50€)"
 
-In questa fascia di prezzo troviamo componenti entry-level ma affidabili:
+    ## 🌱 Budget Starter (30-50€)
 
-### Raspberry PI 3
+    !!! example "Componenti Entry-Level, per chi vuole iniziare con un investimento minimo"
 
-![Pezzo 1](/images/RASPBERRY_PI_3B_PLUS.png)
+    ### 🖥️ Raspberry PI 3
 
-- Caratteristica 1
-- Caratteristica 2
-- Prezzo: 29.99€
+    <div class="grid cards" markdown>
 
-### Pezzo 2
+    -   [x] **Caratteristiche Principali**
 
-![Pezzo 2](/images/pezzo-2.jpg)
+        - CPU Quad-Core 1.2GHz
+        - 1GB RAM
+        - WiFi + Bluetooth integrati
+        - GPIO pins per sensori
 
-- Caratteristica 1
-- Caratteristica 2
-- Prezzo: 19.99€
+        [→ Acquista a 29.99€](#){ .md-button }
 
-**Totale configurazione**: 49.98€
+    </div>
 
-## **Budget Intermedio (60-75€)**
+    ![Raspberry PI 3](images/RASPBERRY_PI_3B_PLUS.png)
 
-Per questa fascia di prezzo possiamo permetterci:
+    ### 📊 Sensori Base
 
-### Pezzo 3
+    <div class="grid cards" markdown>
 
-![Pezzo 3](/images/pezzo-3.jpg)
+    -   🌡️ **Kit Sensori**
 
-- Caratteristica 1
-- Caratteristica 2
-- Caratteristica 3
-- Prezzo: 45€
+        - Sensore temperatura DHT11
+        - Sensore pressione BMP180
+        - Cavi di collegamento
 
-### Pezzo 4
+        [→ Acquista a 19.99€](#){ .md-button }
 
-![Pezzo 4](/images/pezzo-4.jpg)
+    </div>
 
-- Caratteristica 1
-- Caratteristica 2
-- Prezzo: 25€
+    !!! success "Totale Configurazione: 49.98€"
+        ✅ Perfetto per iniziare
+        ✅ Facilmente espandibile
+        ✅ Ottimo per imparare
 
-**Totale configurazione**: 70€
+=== "🌿 Intermedio (60-75€)"
 
-## **Budget Alto (80-90€)**
+    ## 🌿 Budget Intermedio (60-75€)
 
-Con questo budget possiamo considerare:
+    !!! example "Componenti di qualità superiore per risultati affidabili e prestazioni migliori"
 
-### Pezzo 5
+    ### 🖥️ Raspberry PI 4 Model B
 
-![Pezzo 5](/images/pezzo-5.jpg)
+    <div class="grid cards" markdown>
 
-- Caratteristica 1
-- Caratteristica 2
-- Caratteristica 3
-- Prezzo: 85€
+    -   [x] **Caratteristiche Principali**
 
-> ⚠️ **Nota**: Questo pezzo è spesso in sconto a 75€
+        - CPU Quad-Core 1.5GHz
+        - 2GB RAM
+        - WiFi 5GHz + Bluetooth 5.0
+        - USB 3.0 e Gigabit Ethernet
+        - GPIO pins per sensori
 
-### Alternative
+        [→ Acquista a 45.99€](#){ .md-button }
 
-- Pezzo 6 (89.99€)
-- Pezzo 7 (84.99€)
+    </div>
 
-## **Budget Premium (100-125€)**
+    ![Raspberry PI 4](images/RASPBERRY_PI_4.png)
 
-Questa fascia permette configurazioni più avanzate:
+    ### 📊 Kit Sensori Avanzato
 
-### Set Pezzi Premium
+    <div class="grid cards" markdown>
 
-![Set Premium](/images/set-premium.jpg)
+    -   🌡️ **Kit Sensori Pro**
 
-1. Pezzo 8
-2. Pezzo 9
-3. Pezzo 10
+        - Sensore temperatura/umidità DHT22
+        - Sensore pressione BMP280
+        - Sensore qualità aria MQ135
+        - Cavi e breadboard
 
-- Prezzo bundle: 119.99€
-- ~~Prezzo separato: 149.99€~~
+        [→ Acquista a 29.99€](#){ .md-button }
 
-### Specifiche tecniche
+    </div>
 
-| Componente | Caratteristiche |
-|------------|----------------|
-| Pezzo 8 | Caratteristica 1 |
-| Pezzo 9 | Caratteristica 2 |
-| Pezzo 10 | Caratteristica 3 |
+    !!! success "Totale Configurazione: 75.98€"
+        ✅ Prestazioni superiori
+        ✅ Sensori più precisi
+        ✅ Maggiore espandibilità
 
-## **Budget Avanzato (150-200€)**
+=== "🌳 Alto (80-90€)"
 
-La fascia premium include:
+    ## 🌳 Budget Alto (80-90€)
 
-### Set Professionale
+    !!! example "Setup semi-professionale con componenti di alta qualità"
 
-![Set Pro](/images/set-pro.jpg)
+    ### 🖥️ Raspberry PI 4 Model B 4GB
+
+    <div class="grid cards" markdown>
+
+    -   [x] **Caratteristiche Premium**
+
+        - CPU Quad-Core 1.8GHz
+        - 4GB RAM
+        - WiFi 5GHz + Bluetooth 5.0
+        - USB 3.0 e Gigabit Ethernet
+        - Ventola di raffreddamento inclusa
+
+        [→ Acquista a 59.99€](#){ .md-button }
+
+    </div>
+
+    ### 📊 Kit Sensori Professionale
+
+    <div class="grid cards" markdown>
+
+    -   🌡️ **Kit Sensori Premium**
+
+        - Sensore BME280 (temp/umidità/pressione)
+        - Anemometro
+        - Sensore pioggia
+        - Display OLED
+        - Cavi e componenti premium
+
+        [→ Acquista a 29.99€](#){ .md-button }
+
+    </div>
+
+    !!! success "Totale Configurazione: 89.98€"
+        ✅ Componenti professionali
+        ✅ Misurazioni precise
+        ✅ Setup completo
+
+=== "💎 Premium (100-125€)"
+
+    ## 💎 Budget Premium (100-125€)
+
+    !!! example "Configurazione professionale per risultati da stazione meteo certificata"
+
+    ### 🖥️ Raspberry PI 4 Model B 8GB
+
+    <div class="grid cards" markdown>
+
+    -   [x] **Caratteristiche Ultimate**
+
+        - CPU Quad-Core 1.8GHz OC
+        - 8GB RAM
+        - Case in alluminio con raffreddamento
+        - Alimentatore ufficiale 3A
+        - SSD 128GB
+
+        [→ Acquista a 79.99€](#){ .md-button }
+
+    </div>
+
+    ### 📊 Kit Sensori Elite
+
+    <div class="grid cards" markdown>
+
+    -   🌡️ **Kit Sensori Deluxe**
+
+        - Stazione meteo 7-in-1
+        - Display LCD touchscreen
+        - Sensore UV
+        - Pluviometro di precisione
+        - Kit montaggio professionale
+
+        [→ Acquista a 44.99€](#){ .md-button }
+
+    </div>
+
+    !!! success "Totale Configurazione: 124.98€"
+        ✅ Qualità professionale
+        ✅ Precisione certificata
+        ✅ Setup completo e duraturo
+
+=== "⭐ Avanzato (150-200€)"
+
+    ## ⭐ Budget Avanzato (150-200€)
+
+    !!! example "Il meglio che il mercato offre per uso professionale e ricerca"
+
+    ### 🖥️ Kit Completo Raspberry PI 4 8GB
+
+    <div class="grid cards" markdown>
+
+    -   [x] **Setup Ultimate**
+
+        - Raspberry PI 4 8GB
+        - Case raffreddato a liquido
+        - SSD NVMe 256GB
+        - Display 7" touch ufficiale
+        - UPS integrato
+
+        [→ Acquista a 129.99€](#){ .md-button }
+
+    </div>
+
+    ### 📊 Stazione Meteo Professionale
+
+    <div class="grid cards" markdown>
+
+    -   🌡️ **Kit Meteorologico Pro**
+
+        - Stazione meteo Davis Vantage Vue
+        - Shield solare ventilato
+        - Camera meteo 4K
+        - Software professionale
+        - Calibrazione certificata
+
+        [→ Acquista a 69.99€](#){ .md-button }
+
+    </div>
+
+    !!! success "Totale Configurazione: 199.98€"
+        ✅ Qualità scientifica
+        ✅ Certificazione professionale
+        ✅ Supporto prioritario

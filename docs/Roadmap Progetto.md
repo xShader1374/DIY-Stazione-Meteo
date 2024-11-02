@@ -1,16 +1,65 @@
-# Roadmap Progetto
+# 🎯 Roadmap Progetto
 
-## Idea Finale:
+## 💡 Idea Finale
 
-Poter rendere più agibile per tutti avere e creare con le proprie mani una stazione meteo smart, contribuendo allo stesso tempo all'archiviazione e rilevazione dei dati metereologici per aiutare calcoli, stime ecc. a basso costo, o anche in modo professionale, in base al budget, con codici, web app e programmi già pronti per l'uso, infatti, basterà semplicemente seguire la Guida in base a ciò che si vuol fare e il gioco è fatto!
+!!! abstract "La Nostra Visione"
+    Democratizzare la meteorologia rendendo accessibile a tutti la creazione di una stazione meteo smart.
+    Contribuiamo alla citizen science permettendo la raccolta e l'analisi di dati meteorologici 
+    in modo economico ma professionale.
 
-## Funzioni Finali:
+## 🚀 Funzionalità Principali
 
-- Usare Raspberry 3/4
-- Rilevare i vari dati tramite sensori appositi
-- Avere la possibilità di farlo diventare un dispositivo IoT e quindi collegato a smart home ecc., così da potervi accedere anche da remoto (preferibilmente sia da pc che da telefono)
-- Avere una web app che ti fa vedere in modo carino, con animazioni ecc., i dati di quei sensori in tempo reale quando ti ci connetti da telefono o pc localmente, anche con Apache semplicemente ecc.
-- Dargli energia o tramite corrente o tramite batteria oppure tramite pannello solare (a scelta, faremo sì che ci siano delle guide per tutte e 3 le opzioni)
-- Avere un processo in background che invia ogni tot i dati a Lineameteo
-- Avere una scocca esterna preordinabile magari anche da aziende cinesi apposite che stampano i modelli in 3D pronti al posto tuo (per chi non ha già una stampante 3D)
-- Mini telecamera che permette di scattare foto ogni tot, che possa essere messo apposta per farle al cielo (o comunque un pezzo che sia posizionabile in modo libero, così che ognuno possa posizionarlo dove vuole)
+### 🛠️ Hardware
+
+- [x] Compatibilità con Raspberry Pi 3/4
+- [ ] Supporto per sensori multipli:
+    - [ ] Temperatura e umidità
+    - [ ] Pressione atmosferica
+    - [ ] Velocità del vento
+    - [ ] Pluviometro
+    - [ ] Qualità dell'aria
+- [ ] Camera meteorologica orientabile
+
+### ⚡ Alimentazione
+
+=== "Rete Elettrica"
+    - Alimentazione stabile 24/7
+    - UPS opzionale per backup
+
+=== "Batteria"
+    - Sistema a basso consumo
+    - Batteria LiPo con ricarica
+
+=== "Solare"
+    - Pannello fotovoltaico
+    - Sistema di accumulo
+    - Gestione energetica smart
+
+### 🌐 Connettività
+
+- [ ] Integrazione IoT completa
+    - HomeAssistant
+    - OpenHAB
+    - Custom MQTT
+- [ ] Web App Real-time
+    - Dashboard interattiva
+    - Grafici animati
+    - PWA per mobile
+
+### 🔄 Integrazione Dati
+
+- [ ] Upload automatico su:
+    - Lineameteo
+    - Weather Underground
+    - OpenWeatherMap
+- [ ] API pubblica per i dati
+- [ ] Storage locale su SD
+
+### 🏗️ Scocca Protettiva
+
+- [ ] Design modulare stampabile in 3D
+- [ ] Versioni:
+    - Base (economica)
+    - Pro (ventilata)
+    - Ultimate (schermata)
+- [ ] Shop partner per stampa on-demand
