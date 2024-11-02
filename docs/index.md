@@ -39,7 +39,7 @@
 ## 🚀 Come Iniziare
 
 1. **Scegli il tuo Budget**
-    - Consulta la [Lista Pezzi](/Lista%20Pezzi) per trovare la configurazione ideale
+    - Consulta la [Lista Pezzi](DIY-Stazione-Meteo/Lista%20Pezzi) per trovare la configurazione ideale
     - Da 30€ a 200€ per ogni esigenza
 
 2. **Segui la Guida**
